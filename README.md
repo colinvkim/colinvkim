@@ -1,4 +1,4 @@
-<h2 align="center">Hi there! 👋</h2>
+# Hi there! 👋
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -36,6 +36,12 @@
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 ![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
+
+## Current Projects
+
+- **[Blackbaud Next](https://github.com/colinvkim/Blackbaud-Next)** — Chrome extension that makes Blackbaud LMS more usable
+- **[Polygraph](https://polygraph.colinkim.dev/)** — Modern Brawl Stars stats lookup tool
+- **[tabula rasa](https://polygraph.colinkim.dev/)** — Fast, distraction-free online notepad for jotting down quick thoughts
 
 ***
 
