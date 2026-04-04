@@ -39,10 +39,12 @@
 
 ## Current Projects
 
+- **[Radix](https://github.com/colinvkim/radix)** — Incredibly efficient and lightweight macOS disk space analyzer
 - **[imagetools](https://github.com/colinvkim/imagetools)** — Online image toolkit for everyday creativity that runs on-device
 - **[Blackbaud Next](https://github.com/colinvkim/Blackbaud-Next)** — Chrome extension that improves Blackbaud LMS
 - **[best-builds](https://github.com/colinvkim/best-builds)** — Simple website for finding the best builds of Brawlers in Brawl Stars
-- **[Polygraph](https://polygraph.colinkim.dev/)** — Modern Brawl Stars stats lookup tool (archived)
+- **[learn](https://github.com/colinvkim/learn)** — Learning platform maintained by AI
+- **[Polygraph](https://polygraph.colinkim.dev/)** — Modern Brawl Stars stats lookup tool (archived, closed-source)
 - **[tabula rasa](https://github.com/colinvkim/tabula-rasa)** — Fast, distraction-free online notepad for jotting down quick thoughts
 
 ***
