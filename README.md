@@ -44,7 +44,6 @@
 - **[Blackbaud Next](https://github.com/colinvkim/Blackbaud-Next)** — Chrome extension that improves Blackbaud LMS
 - **[best-builds](https://github.com/colinvkim/best-builds)** — Simple website for finding the best builds of Brawlers in Brawl Stars
 - **[learn](https://github.com/colinvkim/learn)** — Learning platform maintained by AI
-- **[Polygraph](https://polygraph.colinkim.dev/)** — Modern Brawl Stars stats lookup tool (archived, closed-source)
 - **[tabula rasa](https://github.com/colinvkim/tabula-rasa)** — Fast, distraction-free online notepad for jotting down quick thoughts
 
 ***
