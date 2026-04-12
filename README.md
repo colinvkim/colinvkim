@@ -46,7 +46,7 @@
 - **[learn](https://github.com/colinvkim/learn)** — Learning platform maintained by AI
 - **[tabula rasa](https://github.com/colinvkim/tabula-rasa)** — Fast, distraction-free online notepad for jotting down quick thoughts
 
-***
+## This Week in Code
 
 <!--START_SECTION:waka-->
 
