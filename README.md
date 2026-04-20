@@ -45,6 +45,7 @@
 - **[Blackbaud Next](https://github.com/colinvkim/Blackbaud-Next)** — Chrome extension that improves Blackbaud LMS
 - **[best-builds](https://github.com/colinvkim/best-builds)** — Simple website for finding the best builds of Brawlers in Brawl Stars
 - **[learn](https://github.com/colinvkim/learn)** — Learning platform maintained by AI
+- **[capitalize](https://github.com/colinvkim/capitalize)** — Tool that instantly formats text using common capitalization rules
 - **[tabula rasa](https://github.com/colinvkim/tabula-rasa)** — Fast, distraction-free online notepad for jotting down quick thoughts
 
 ## This Week in Code
