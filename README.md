@@ -42,7 +42,6 @@
 - **[Radix](https://github.com/colinvkim/radix)** — Incredibly efficient and lightweight macOS disk space analyzer
 - **[imagetools](https://github.com/colinvkim/imagetools)** — Online image toolkit for everyday creativity that runs on-device
 - **[Blackbaud Next](https://github.com/colinvkim/Blackbaud-Next)** — Chrome extension that improves Blackbaud LMS
-- **[best-builds](https://github.com/colinvkim/best-builds)** — Simple website for finding the best builds of Brawlers in Brawl Stars
 - **[learn](https://github.com/colinvkim/learn)** — Learning platform maintained by AI
 - **[capitalize](https://github.com/colinvkim/capitalize)** — Tool that instantly formats text using common capitalization rules
 
