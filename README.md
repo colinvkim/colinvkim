@@ -50,11 +50,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Swift         16 hrs 5 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.44 %
-Other         14 hrs 38 mins        █████▓░░░░░░░░░░░░░░░░░░░   23.14 %
-TypeScript    13 hrs 55 mins        █████▓░░░░░░░░░░░░░░░░░░░   22.03 %
-Python        5 hrs 28 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 %
-Markdown      5 hrs 22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
+Swift         16 hrs 16 mins        ██████▒░░░░░░░░░░░░░░░░░░   25.77 %
+Other         16 hrs 3 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.45 %
+TypeScript    13 hrs 45 mins        █████▒░░░░░░░░░░░░░░░░░░░   21.79 %
+Markdown      5 hrs 15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
+Python        3 hrs 8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
 ```
 
 <!--END_SECTION:waka-->
